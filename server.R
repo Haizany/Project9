@@ -1,3 +1,5 @@
+# server.R
+# make sure working directory is set
 library(shiny)
 library(lubridate)
 library(ggplot2)
